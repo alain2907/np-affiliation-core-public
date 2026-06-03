@@ -1,0 +1,101 @@
+{
+  "merchants": {
+    "design-letters": {
+      "button_text": "Voir Design Letters",
+      "category_theme": "Décoration",
+      "cta_text": "Voir la collection",
+      "description": "Papeterie et accessoires de table design danois, esthétique scandinave.",
+      "id": "design-letters",
+      "image": "",
+      "merchant_id": "101583",
+      "price": "",
+      "title": "Design Letters — Vaisselle & déco de table",
+      "url": ""
+    },
+    "erverte-paris": {
+      "button_text": "Voir la collection",
+      "category_theme": "Lifestyle",
+      "cta_text": "Voir la collection",
+      "description": "Mode et accessoires lifestyle pour hommes, sélection éthique et raffinée.",
+      "id": "erverte-paris",
+      "image": "",
+      "merchant_id": "87255",
+      "price": "",
+      "title": "Erverte Paris — Mode & accessoires",
+      "url": ""
+    },
+    "imou-fr": {
+      "button_text": "Découvrir Imou",
+      "category_theme": "Sécurité",
+      "cta_text": "Découvrir",
+      "description": "Caméras de surveillance connectées pour sécuriser votre logement.",
+      "id": "imou-fr",
+      "image": "",
+      "merchant_id": "122426",
+      "price": "",
+      "title": "Imou — Caméras de surveillance connectées",
+      "url": ""
+    },
+    "narwal-fr": {
+      "button_text": "Découvrir Narwal",
+      "category_theme": "Maison",
+      "cta_text": "Découvrir",
+      "description": "Aspirateurs robots laveurs nouvelle génération, entretien sans effort.",
+      "id": "narwal-fr",
+      "image": "",
+      "merchant_id": "114674",
+      "price": "",
+      "title": "Narwal — Robot aspirateur laveur",
+      "url": ""
+    },
+    "navimow-fr": {
+      "button_text": "Voir Navimow",
+      "category_theme": "Jardin",
+      "cta_text": "Voir les tondeuses Navimow",
+      "description": "Tondeuses robots autonomes pour entretenir le jardin sans effort, navigation GPS-RTK sans fil périphérique. Filiale du groupe Segway-Ninebot.",
+      "id": "navimow-fr",
+      "image": "",
+      "merchant_id": "123746",
+      "price": "",
+      "title": "Navimow — Tondeuses robots autonomes",
+      "url": ""
+    },
+    "office-hof": {
+      "button_text": "Voir Office Hof",
+      "category_theme": "Services entreprises",
+      "cta_text": "Voir les offres Office Hof",
+      "description": "Centre d'affaires belge spécialisé en domiciliation, bureau virtuel et adresse professionnelle à Bruxelles et en Flandre, à partir de 69 €/mois.",
+      "id": "office-hof",
+      "image": "",
+      "merchant_id": "127017",
+      "price": "",
+      "regie": "awin",
+      "title": "Office Hof — Domiciliation d'entreprise en Belgique",
+      "url": ""
+    },
+    "prm-coupons-couture": {
+      "button_text": "Voir PRM Coupons",
+      "category_theme": "DIY",
+      "cta_text": "Voir les coupons",
+      "description": "Coupons de tissus et fournitures pour passionnés de couture créative.",
+      "id": "prm-coupons-couture",
+      "image": "",
+      "merchant_id": "124120",
+      "price": "",
+      "title": "PRM Coupons Couture — Tissus & fournitures",
+      "url": ""
+    },
+    "voghion-global": {
+      "button_text": "Voir Voghion",
+      "category_theme": "Lifestyle",
+      "cta_text": "Voir les offres",
+      "description": "Marketplace mode et lifestyle à petits prix, livraison France.",
+      "id": "voghion-global",
+      "image": "",
+      "merchant_id": "44635",
+      "price": "",
+      "title": "Voghion — Mode & lifestyle petits prix",
+      "url": ""
+    }
+  }
+}
