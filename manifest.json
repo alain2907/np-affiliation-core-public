@@ -1,15 +1,15 @@
 {
   "name": "NP Affiliation Core",
   "slug": "np-affiliation-core",
-  "version": "0.6.0",
-  "download_url": "https://github.com/alain2907/np-affiliation-core-public/releases/download/v0.6.0/np-affiliation-core.zip",
+  "version": "0.6.1",
+  "download_url": "https://github.com/alain2907/np-affiliation-core-public/releases/download/v0.6.1/np-affiliation-core.zip",
   "requires": "5.8",
   "tested": "6.7",
   "requires_php": "7.4",
   "author": "newpod",
   "author_homepage": "https://gastronoom.fr",
   "homepage": "https://github.com/alain2907/np-affiliation-core-public",
-  "last_updated": "2026-06-03 13:47:26 UTC",
+  "last_updated": "2026-06-03 17:06:46 UTC",
   "sections": {
     "description": "Coeur mutualisé d'affiliation (Awin) pour le réseau de sites monétisés newpod. Shortcode, REST CRUD, auto-injection contextuelle, UTM tracking par site. Customisable par filters.",
     "changelog": "<h4>0.5.0</h4><ul><li>Refactor multi-régies (Hybride C : registry + filter d'extension np_aff_register_regies). Awin shipé nativement (NP_Aff_Awin_Regie). Migration douce settings.awin_publisher_id → settings.regies.awin.publisher_id avec read-proxy rétro-compat. Champ regie ajouté au modèle produit défaut awin. 0 régression runtime v0.4.x.</li></ul><h4>0.4.2</h4><ul><li>Endpoint REST GET /np-aff/v1/version (public) pour orchestrateur fleet_sync.py site-check.</li></ul><h4>0.4.1</h4><ul><li>URL manifest GitHub raw embarquée pour mirror public.</li><li>Header WP Update URI ajouté.</li><li>Refactor : vendor fetch-au-build via INSTALL.md.</li><li>file_exists fallback (plugin non bloquant sans PUC).</li></ul><h4>0.4.0</h4><ul><li>Embed plugin-update-checker Yahnis Elsts v5.7.</li></ul><h4>0.3.4</h4><ul><li>6 marchands thématiques, cadres visuels, liens nus.</li></ul>",
