@@ -15,22 +15,6 @@
       "title": "Design Letters — Vaisselle & déco de table",
       "url": ""
     },
-    "elastique-athletics-us": {
-      "button_text": "Shop now",
-      "category_theme": "",
-      "cta_text": "",
-      "description": "",
-      "id": "elastique-athletics-us",
-      "image": "",
-      "merchant_id": "68948",
-      "price": "",
-      "regie": "awin",
-      "regions": [
-        "us"
-      ],
-      "title": "Elastique Athletics",
-      "url": ""
-    },
     "erverte-paris": {
       "button_text": "Voir la collection",
       "category_theme": "Lifestyle",
@@ -120,38 +104,6 @@
         "fr"
       ],
       "title": "PRM Coupons Couture — Tissus & fournitures",
-      "url": ""
-    },
-    "sparkle-gmbh": {
-      "button_text": "Shop now",
-      "category_theme": "",
-      "cta_text": "",
-      "description": "",
-      "id": "sparkle-gmbh",
-      "image": "",
-      "merchant_id": "111366",
-      "price": "",
-      "regie": "awin",
-      "regions": [
-        "us"
-      ],
-      "title": "Sparkle GmbH",
-      "url": ""
-    },
-    "transparentrx": {
-      "button_text": "Shop now",
-      "category_theme": "",
-      "cta_text": "",
-      "description": "",
-      "id": "transparentrx",
-      "image": "",
-      "merchant_id": "91823",
-      "price": "",
-      "regie": "awin",
-      "regions": [
-        "us"
-      ],
-      "title": "TransparentRx",
       "url": ""
     },
     "voghion-global": {
