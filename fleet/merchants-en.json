@@ -1,0 +1,68 @@
+{
+  "merchants": {
+    "elastique-athletics-us": {
+      "button_text": "Find your fit",
+      "category_theme": "Sports & Fitness",
+      "cta_text": "Find your fit",
+      "description": "Compression leggings, bras, and bodysuits designed for workouts, travel, recovery, and long days on your feet.",
+      "id": "elastique-athletics-us",
+      "image": "",
+      "merchant_id": "68948",
+      "price": "",
+      "regie": "awin",
+      "regions": [
+        "us"
+      ],
+      "title": "Elastique Athletics US Program",
+      "url": ""
+    },
+    "sparkle-gmbh": {
+      "button_text": "Shop jewelry",
+      "category_theme": "Jewelry",
+      "cta_text": "Shop jewelry",
+      "description": "Shop Hey Happiness jewelry and accessories, from plated necklaces and rings to everyday style pieces.",
+      "id": "sparkle-gmbh",
+      "image": "",
+      "merchant_id": "111366",
+      "price": "",
+      "regie": "awin",
+      "regions": [
+        "us"
+      ],
+      "title": "Sparkle GmbH",
+      "url": ""
+    },
+    "transparentrx": {
+      "button_text": "Save on prescriptions",
+      "category_theme": "Pharmacy",
+      "cta_text": "Save on prescriptions",
+      "description": "Free prescription discount card for brand-name and generic meds, accepted at thousands of US pharmacies.",
+      "id": "transparentrx",
+      "image": "",
+      "merchant_id": "91823",
+      "price": "",
+      "regie": "awin",
+      "regions": [
+        "us"
+      ],
+      "title": "TransparentRx",
+      "url": ""
+    },
+    "voghion-global": {
+      "button_text": "Explore deals",
+      "category_theme": "Marketplace",
+      "cta_text": "Explore deals",
+      "description": "Global marketplace for budget-friendly fashion, accessories, home goods, tech gadgets, and everyday finds.",
+      "id": "voghion-global",
+      "image": "",
+      "merchant_id": "44635",
+      "price": "",
+      "regie": "awin",
+      "regions": [
+        "us"
+      ],
+      "title": "Voghion Global",
+      "url": ""
+    }
+  }
+}
