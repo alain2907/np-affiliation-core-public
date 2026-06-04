@@ -9,7 +9,26 @@
       "image": "",
       "merchant_id": "101583",
       "price": "",
+      "regions": [
+        "fr"
+      ],
       "title": "Design Letters — Vaisselle & déco de table",
+      "url": ""
+    },
+    "elastique-athletics-us": {
+      "button_text": "Shop now",
+      "category_theme": "",
+      "cta_text": "",
+      "description": "",
+      "id": "elastique-athletics-us",
+      "image": "",
+      "merchant_id": "68948",
+      "price": "",
+      "regie": "awin",
+      "regions": [
+        "us"
+      ],
+      "title": "Elastique Athletics",
       "url": ""
     },
     "erverte-paris": {
@@ -21,6 +40,9 @@
       "image": "",
       "merchant_id": "87255",
       "price": "",
+      "regions": [
+        "fr"
+      ],
       "title": "Erverte Paris — Mode & accessoires",
       "url": ""
     },
@@ -33,6 +55,9 @@
       "image": "",
       "merchant_id": "122426",
       "price": "",
+      "regions": [
+        "fr"
+      ],
       "title": "Imou — Caméras de surveillance connectées",
       "url": ""
     },
@@ -45,6 +70,9 @@
       "image": "",
       "merchant_id": "114674",
       "price": "",
+      "regions": [
+        "fr"
+      ],
       "title": "Narwal — Robot aspirateur laveur",
       "url": ""
     },
@@ -57,6 +85,9 @@
       "image": "",
       "merchant_id": "123746",
       "price": "",
+      "regions": [
+        "fr"
+      ],
       "title": "Navimow — Tondeuses robots autonomes",
       "url": ""
     },
@@ -70,6 +101,9 @@
       "merchant_id": "127017",
       "price": "",
       "regie": "awin",
+      "regions": [
+        "fr"
+      ],
       "title": "Office Hof — Domiciliation d'entreprise en Belgique",
       "url": ""
     },
@@ -82,7 +116,42 @@
       "image": "",
       "merchant_id": "124120",
       "price": "",
+      "regions": [
+        "fr"
+      ],
       "title": "PRM Coupons Couture — Tissus & fournitures",
+      "url": ""
+    },
+    "sparkle-gmbh": {
+      "button_text": "Shop now",
+      "category_theme": "",
+      "cta_text": "",
+      "description": "",
+      "id": "sparkle-gmbh",
+      "image": "",
+      "merchant_id": "111366",
+      "price": "",
+      "regie": "awin",
+      "regions": [
+        "us"
+      ],
+      "title": "Sparkle GmbH",
+      "url": ""
+    },
+    "transparentrx": {
+      "button_text": "Shop now",
+      "category_theme": "",
+      "cta_text": "",
+      "description": "",
+      "id": "transparentrx",
+      "image": "",
+      "merchant_id": "91823",
+      "price": "",
+      "regie": "awin",
+      "regions": [
+        "us"
+      ],
+      "title": "TransparentRx",
       "url": ""
     },
     "voghion-global": {
@@ -94,6 +163,10 @@
       "image": "",
       "merchant_id": "44635",
       "price": "",
+      "regions": [
+        "fr",
+        "us"
+      ],
       "title": "Voghion — Mode & lifestyle petits prix",
       "url": ""
     }
