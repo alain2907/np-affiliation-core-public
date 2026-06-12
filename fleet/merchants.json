@@ -60,6 +60,21 @@
       "title": "Narwal — Robot aspirateur laveur",
       "url": ""
     },
+    "navee-france": {
+      "button_text": "Découvrir Navee",
+      "category_theme": "Mobilité",
+      "cta_text": "Voir les trottinettes",
+      "description": "Trottinettes électriques et solutions de micromobilité urbaine.",
+      "id": "navee-france",
+      "image": "",
+      "merchant_id": "116247",
+      "price": "",
+      "regions": [
+        "fr"
+      ],
+      "title": "Navee France — Trottinettes électriques",
+      "url": ""
+    },
     "navimow-fr": {
       "button_text": "Voir Navimow",
       "category_theme": "Jardin",
