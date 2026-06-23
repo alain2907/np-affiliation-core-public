@@ -1,8 +1,8 @@
 {
   "name": "NP Affiliation Core",
   "slug": "np-affiliation-core",
-  "version": "0.7.2",
-  "download_url": "https://github.com/alain2907/np-affiliation-core-public/releases/download/v0.7.2/np-affiliation-core.zip",
+  "version": "0.7.4",
+  "download_url": "https://github.com/alain2907/np-affiliation-core-public/releases/download/v0.7.4/np-affiliation-core.zip",
   "requires": "5.8",
   "tested": "6.7",
   "requires_php": "7.4",
